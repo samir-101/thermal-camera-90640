@@ -11,7 +11,7 @@ The code detects clusters using a **Depth-First Search (DFS)** algorithm and tri
 This is an experimental attempt to detect **human presence using an MCU**.  
 A Python client script is also available to stream the thermal camera output as video.
 
-| Front CAD View | Front Real View |
+| Demo Python Client |
 |:---------------:|:----------------:|
 | ![Front CAD View](/Demos/img_13.png "Front CAD View") | ![Front Real View](/Demos/img_9.png "Front Real View") |
 
