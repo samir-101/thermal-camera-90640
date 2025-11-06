@@ -1,8 +1,8 @@
 ---
 title: "Human Presence Detection Using Thermal Camera and STM32 by DFS Cluster Detection"
-excerpt: "STM32 H723ZG, MLX90640 and ILI9341 based low resolution thermal camera with bi-linear upscaling
+excerpt: "STM32 H723ZG, MLX90640 and ILI9341 based low resolution thermal camera with bi-linear upscaling"
 ---
-
+ <img src='/images/thermal/img1.jpg'>
 ![Thesis Test Setup](/Demos/img1.jpg "Thesis Test Setup")
 
 It is a **low-resolution, low-cost thermal camera** with video streaming support via USB Serial.  
